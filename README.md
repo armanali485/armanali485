@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">● Final year student pursuing B.Tech in Computer Science and Engineering 👨🏻‍🎓🏛.<br><br>● Competitive Programming Enthusiast 👨🏽‍💻.<br><br>● Ask me about C++ and MERN Stack 💻.<br><br>● Eager to Learn new techs stacks and skills 🕵🏻‍♂️.<br><br>● MERN STACK DEVELOPER</p>
+<p align="left">● Final year student pursuing B.Tech in Computer Science and Engineering 👨🏻‍🎓🏛.<br><br>● Competitive Programming Enthusiast 👨🏽‍💻.<br><br>● Ask me about Java and MERN Stack 💻.<br><br>● Eager to Learn new techs stacks and skills 🕵🏻‍♂️.<br><br>● MERN STACK DEVELOPER</p>
 
 ###
 
